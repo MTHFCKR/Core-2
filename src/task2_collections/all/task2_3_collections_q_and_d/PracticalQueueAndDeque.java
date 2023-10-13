@@ -1,4 +1,4 @@
-package task2_collections.all.task2_3_collection_q_and_d;
+package task2_collections.all.task2_3_collections_q_and_d;
 
 /**
  * 1.У вас есть список задач, каждая из которых имеет приоритет (целое число). Напишите код для реализации
