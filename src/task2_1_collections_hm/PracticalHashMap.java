@@ -1,4 +1,4 @@
-package task2_collections_hm;
+package task2_1_collections_hm;
 
 /**
  * Задача 1. У вас есть список пар ключ-значение, и вы хотите создать HashMap с этими парами. Однако вам нужно

@@ -1,4 +1,4 @@
-package task2_collections_l_and_hl;
+package task2_2_collections_l_and_hl;
 
 import java.util.LinkedHashMap;
 import java.util.LinkedList;
