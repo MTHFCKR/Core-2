@@ -1,4 +1,4 @@
-package task2_3_collection_q_and_d;
+package task2_collections.all.task2_3_collection_q_and_d;
 
 import java.util.ArrayDeque;
 import java.util.Deque;

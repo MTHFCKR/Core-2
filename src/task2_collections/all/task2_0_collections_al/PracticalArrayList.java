@@ -1,4 +1,4 @@
-package task2_0_collections_al;
+package task2_collections.all.task2_0_collections_al;
 
 /**
  * Задача 1 : У вас есть ArrayList с элементами, некоторые из которых могут быть дубликатами. Напишите код для

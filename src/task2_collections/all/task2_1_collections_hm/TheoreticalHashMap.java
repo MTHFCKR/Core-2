@@ -1,4 +1,4 @@
-package task2_1_collections_hm;
+package task2_collections.all.task2_1_collections_hm;
 
 import java.util.HashMap;
 
